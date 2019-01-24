@@ -2,8 +2,8 @@
 class Connection{
  
     // specify your own database credentials
-    private $host = "localhost";
-    private $db_name = "Erp";
+    private $host="localhost";
+    private $db_name = "ll";
     private $username = "root";
     private $password = "";
     public $conn;
